@@ -1,0 +1,5 @@
+1. By clicking in start menu :
+    -> The classList property returns the CSS classnames of an element.
+       The classList property returns a DOMTokenList.
+
+2. 
